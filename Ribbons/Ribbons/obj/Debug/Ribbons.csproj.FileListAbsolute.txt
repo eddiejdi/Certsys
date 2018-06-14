@@ -1,0 +1,14 @@
+C:\Users\edenilson.paschoa\source\repos\Ribbons\Ribbons\bin\Debug\Ribbons.dll
+C:\Users\edenilson.paschoa\source\repos\Ribbons\Ribbons\bin\Debug\Ribbons.pdb
+C:\Users\edenilson.paschoa\source\repos\Ribbons\Ribbons\bin\Debug\Ribbons.dll.manifest
+C:\Users\edenilson.paschoa\source\repos\Ribbons\Ribbons\bin\Debug\Ribbons.vsto
+C:\Users\edenilson.paschoa\source\repos\Ribbons\Ribbons\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\edenilson.paschoa\source\repos\Ribbons\Ribbons\obj\Debug\Ribbons.Properties.Resources.resources
+C:\Users\edenilson.paschoa\source\repos\Ribbons\Ribbons\obj\Debug\Ribbons.Ribbon1.resources
+C:\Users\edenilson.paschoa\source\repos\Ribbons\Ribbons\obj\Debug\Ribbons.csproj.GenerateResource.cache
+C:\Users\edenilson.paschoa\source\repos\Ribbons\Ribbons\obj\Debug\Ribbons.csproj.CoreCompileInputs.cache
+C:\Users\edenilson.paschoa\source\repos\Ribbons\Ribbons\obj\Debug\Ribbons.csproj.CopyComplete
+C:\Users\edenilson.paschoa\source\repos\Ribbons\Ribbons\obj\Debug\Ribbons.dll
+C:\Users\edenilson.paschoa\source\repos\Ribbons\Ribbons\obj\Debug\Ribbons.pdb
+C:\Users\edenilson.paschoa\source\repos\Ribbons\Ribbons\bin\Debug\WebDriver.dll
+C:\Users\edenilson.paschoa\source\repos\Ribbons\Ribbons\bin\Debug\WebDriver.xml
